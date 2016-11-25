@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
  
 app.get('/', function (req, res) {
-  res.send('hello jenkins bean stalk deployment');
+  res.send('hello jenkins bean stalk update');
 });
  
 app.listen(process.env.PORT || 5000);
