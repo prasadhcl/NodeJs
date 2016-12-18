@@ -1,5 +1,7 @@
 {
   "devDependencies": {
+    "express": "3.12.0"
+  },
     "grunt": "^1.0.1"
   }
 }
